@@ -4,20 +4,19 @@
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/munwarjunejo/munwarjunejo/main/light.svg">
 <img alt="Munwar Bux GitHub profile banner" src="https://raw.githubusercontent.com/munwarjunejo/munwarjunejo/main/light.svg">
 </picture>
-
 <br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=BS+Information+Technology+Student;The+Sufi+Institute+of+Luari+Sharif%2C+Badin;Learning+C%2B%2B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=BS+Information+Technology+Student;The+Sufi+Institute+of+Luari+Sharif%2C+Badin;Learning+Java+%26+C%2B%2B)](https://git.io/typing-svg)
 </div>
 
 # Hi, I am Munwar Bux
 
-**IT Student | BS Information Technology | Beginner C++ Learner**
+**IT Student | BS Information Technology | Beginner Java & C++ Programmer**
 
-I am learning programming and problem solving through small C++ console programs. I use Dev-C++ for practice and GitHub to keep my learning work organized.
+I am learning programming and problem solving through small Java and C++ console programs. I use Java practice tools, Dev-C++ for C++ practice, and GitHub to keep my learning work organized.
 
 ## Current Focus
 
+- Java fundamentals: variables, conditions, loops, methods, and classes
 - C++ fundamentals: variables, conditions, loops, arrays, and structures
 - Beginner console applications and practice problems
 - Learning programming step by step through readable examples
@@ -26,6 +25,7 @@ I am learning programming and problem solving through small C++ console programs
 
 | Repository | Description |
 |---|---|
+| [Java-Learning-Codes](https://github.com/munwarjunejo/Java-Learning-Codes) | Beginner Java examples and practice programs |
 | [Cpp-Learning-Notes](https://github.com/munwarjunejo/Cpp-Learning-Notes) | Beginner C++ examples and practice programs |
 | [Calculator-Cpp](https://github.com/munwarjunejo/Calculator-Cpp) | Simple switch-based calculator |
 | [Number-Guessing-Game-Cpp](https://github.com/munwarjunejo/Number-Guessing-Game-Cpp) | Beginner number guessing game |
@@ -37,7 +37,8 @@ I am learning programming and problem solving through small C++ console programs
 - **Location:** Badin, Sindh, Pakistan
 - **Education:** BS Information Technology
 - **Institute:** The Sufi Institute of Luari Sharif, Badin
-- **Tools:** Dev-C++ and GitHub
+- **Languages:** Java and C++
+- **Tools:** Java practice tools, Dev-C++, and GitHub
 - **Current status:** Learning and building
 
 ## Connect With Me
