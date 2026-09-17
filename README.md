@@ -38,7 +38,7 @@ I am learning programming and problem solving through small Java and C++ console
 - **Education:** BS Information Technology
 - **Institute:** The Sufi Institute of Luari Sharif, Badin
 - **Languages:** Java and C++
-- **Tools:** Java practice tools, Dev-C++, and GitHub
+- **Tools:** Java practice tools, Eclipse, VS Code, Dev-C++, and GitHub
 - **Current status:** Learning and building
 
 ## Connect With Me
