@@ -41,7 +41,6 @@ I am learning programming and problem solving through small Java and C++ console
 - **Tools:**
   - **Java:** Eclipse, VS Code, and Java practice tools
   - **C++:** Dev-C++ and VS Code
-  - **Version Control:** GitHub
 - **Current status:** Learning and building
 
 ## Connect With Me
