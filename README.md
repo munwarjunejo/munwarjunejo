@@ -5,7 +5,7 @@
 <img alt="Munwar Bux GitHub profile banner" src="https://raw.githubusercontent.com/munwarjunejo/munwarjunejo/main/light.svg">
 </picture>
 <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=BS+Information+Technology+Student;The+Sufi+Institute+of+Luari+Sharif%2C+Badin;Learning+Java+%26+C%2B%2B)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=BS%20Information%20Technology%20Student;The%20Sufi%20Institute%20of%20Luari%20Sharif%2C%20Badin;Learning%20Java%20%26%20C%2B%2B" alt="BS Information Technology Student, The Sufi Institute of Luari Sharif Badin, Learning Java and C++">
 </div>
 
 # Hi, I am Munwar Bux
