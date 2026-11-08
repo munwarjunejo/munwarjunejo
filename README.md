@@ -24,13 +24,15 @@ I am learning programming by building small console programs and practice projec
 
 ## Selected repositories
 
-- [Personal Expense & Budget Tracker](https://github.com/munwarjunejo/Personal_Expense_Budget_Tracker) — Java app for recording income, expenses, and a monthly budget
-- [Java Learning Codes](https://github.com/munwarjunejo/Java-Learning-Codes) — Java examples and practice programs
-- [C++ Learning Notes](https://github.com/munwarjunejo/Cpp-Learning-Notes) — C++ notes and practice programs
-- [Calculator C++](https://github.com/munwarjunejo/Calculator-Cpp) — Simple menu-based calculator
-- [Number Guessing Game C++](https://github.com/munwarjunejo/Number-Guessing-Game-Cpp) — Small console guessing game
-- [Fibonacci Series C++](https://github.com/munwarjunejo/Fibonacci-Series-Cpp) — Examples using loops, functions, and recursion
-- [Tea, Shake & Coffee Ordering C++](https://github.com/munwarjunejo/Tea-Shake-Coffee-Ordering-Cpp) — Simple menu-based ordering program
+| Repository | Description |
+|---|---|
+| [Personal Expense & Budget Tracker](https://github.com/munwarjunejo/Personal_Expense_Budget_Tracker) | Java app for income, expenses, and monthly budget |
+| [Java Learning Codes](https://github.com/munwarjunejo/Java-Learning-Codes) | Java examples and practice programs |
+| [C++ Learning Notes](https://github.com/munwarjunejo/Cpp-Learning-Notes) | C++ notes and practice programs |
+| [Calculator C++](https://github.com/munwarjunejo/Calculator-Cpp) | Simple menu-based calculator |
+| [Number Guessing Game C++](https://github.com/munwarjunejo/Number-Guessing-Game-Cpp) | Small console guessing game |
+| [Fibonacci Series C++](https://github.com/munwarjunejo/Fibonacci-Series-Cpp) | Loops, functions, and recursion examples |
+| [Tea, Shake & Coffee Ordering C++](https://github.com/munwarjunejo/Tea-Shake-Coffee-Ordering-Cpp) | Simple menu-based ordering program |
 
 ## About me
 
