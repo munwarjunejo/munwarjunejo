@@ -25,6 +25,7 @@ I am learning programming and problem solving through small Java and C++ console
 
 | Repository | Description |
 |---|---|
+| [Personal_Expense_Budget_Tracker](https://github.com/munwarjunejo/Personal_Expense_Budget_Tracker) | Java console app for recording income, expenses, and tracking a monthly budget |
 | [Java-Learning-Codes](https://github.com/munwarjunejo/Java-Learning-Codes) | Beginner Java examples and practice programs |
 | [Cpp-Learning-Notes](https://github.com/munwarjunejo/Cpp-Learning-Notes) | Beginner C++ examples and practice programs |
 | [Calculator-Cpp](https://github.com/munwarjunejo/Calculator-Cpp) | Simple switch-based calculator |
