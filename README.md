@@ -10,45 +10,40 @@
 
 # Hi, I am Munwar Bux
 
-**IT Student | BS Information Technology | Beginner Java & C++ Programmer**
+**BS Information Technology student | Learning Java and C++**
 
-I am learning programming and problem solving through small Java and C++ console programs. I use Java practice tools, Dev-C++ for C++ practice, and GitHub to keep my learning work organized.
+I am learning programming by building small console programs and practice projects. Most of my current work is focused on Java basics, C++ fundamentals, and improving my problem-solving skills.
 
-## Current Focus
+## What I am learning
 
-- Java fundamentals: variables, conditions, loops, methods, and classes
-- C++ fundamentals: variables, conditions, loops, arrays, and structures
-- Beginner console applications and practice problems
-- Learning programming step by step through readable examples
+- Java variables, conditions, loops, methods, and classes
+- C++ variables, conditions, loops, arrays, and structures
+- Basic object-oriented programming
+- Data structures and simple algorithms
+- Writing clear and readable code
 
-## Selected Repositories
+## Selected repositories
 
 | Repository | Description |
 |---|---|
-| [Personal_Expense_Budget_Tracker](https://github.com/munwarjunejo/Personal_Expense_Budget_Tracker) | Java console app for recording income, expenses, and tracking a monthly budget |
-| [Java-Learning-Codes](https://github.com/munwarjunejo/Java-Learning-Codes) | Beginner Java examples and practice programs |
-| [Cpp-Learning-Notes](https://github.com/munwarjunejo/Cpp-Learning-Notes) | Beginner C++ examples and practice programs |
-| [Calculator-Cpp](https://github.com/munwarjunejo/Calculator-Cpp) | Simple switch-based calculator |
-| [Number-Guessing-Game-Cpp](https://github.com/munwarjunejo/Number-Guessing-Game-Cpp) | Beginner number guessing game |
-| [Fibonacci-Series-Cpp](https://github.com/munwarjunejo/Fibonacci-Series-Cpp) | Fibonacci series practice using functions and recursion |
-| [Tea-Shake-Coffee-Ordering-Cpp](https://github.com/munwarjunejo/Tea-Shake-Coffee-Ordering-Cpp) | Simple café ordering system using C++ fundamentals |
+| [Personal_Expense_Budget_Tracker](https://github.com/munwarjunejo/Personal_Expense_Budget_Tracker) | Java console app for recording income and expenses and setting a monthly budget |
+| [Java-Learning-Codes](https://github.com/munwarjunejo/Java-Learning-Codes) | Java examples and practice programs |
+| [Cpp-Learning-Notes](https://github.com/munwarjunejo/Cpp-Learning-Notes) | C++ notes and practice programs |
+| [Calculator-Cpp](https://github.com/munwarjunejo/Calculator-Cpp) | A simple C++ calculator using a menu and switch statements |
+| [Number-Guessing-Game-Cpp](https://github.com/munwarjunejo/Number-Guessing-Game-Cpp) | A small C++ number guessing game |
+| [Fibonacci-Series-Cpp](https://github.com/munwarjunejo/Fibonacci-Series-Cpp) | C++ examples using loops, functions, and recursion |
+| [Tea-Shake-Coffee-Ordering-Cpp](https://github.com/munwarjunejo/Tea-Shake-Coffee-Ordering-Cpp) | A simple C++ menu program for ordering tea, shakes, and coffee |
 
-## About Me
+## About me
 
 - **Location:** Badin, Sindh, Pakistan
 - **Education:** BS Information Technology
 - **Institute:** The Sufi Institute of Luari Sharif, Badin
 - **Languages:** Java and C++
-- **Tools:**
-  - **Java:** Eclipse, VS Code, and Java practice tools
-  - **C++:** Dev-C++ and VS Code
-- **Current status:** Learning and building
+- **Tools:** VS Code, Eclipse, and Dev-C++
 
-## Connect With Me
+I am still learning and adding new practice projects as I go.
+
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Munwar_Bux-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munwar-bux-2572843b1/)
-
-<!--
-Dynamic sections use public read-only services:
-- readme-typing-svg for the typing animation
--->
